@@ -1,5 +1,14 @@
 # @uploadthing/shared
 
+## 5.0.2
+
+### Patch Changes
+
+- [#192](https://github.com/pingdotgg/uploadthing/pull/192)
+  [`c508868`](https://github.com/pingdotgg/uploadthing/commit/c508868690d3de48094c10a7facb880662d03b6a)
+  Thanks [@GentikSolm](https://github.com/GentikSolm)! - fix(types): change
+  internal types to solve declaration emitting
+
 ## 5.0.1
 
 ### Patch Changes
